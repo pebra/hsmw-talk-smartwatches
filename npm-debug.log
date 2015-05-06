@@ -1,0 +1,148 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@2.9.0
+3 info using node@v0.12.2
+4 verbose node symlink /usr/local/bin/node
+5 verbose readDependencies loading dependencies from /Users/peter/Documents/Talks/tme/smartwatches/package.json
+6 warn package.json presentation-smartwatches@0.0.0 No repository field.
+7 verbose install where, deps [ '/Users/peter/Documents/Talks/tme/smartwatches',
+7 verbose install   [ '/Users/peter/Documents/Talks/elixir/bespoke-theme-pebra',
+7 verbose install     'bespoke',
+7 verbose install     'bespoke-backdrop',
+7 verbose install     'bespoke-bullets',
+7 verbose install     'bespoke-hash',
+7 verbose install     'bespoke-keys',
+7 verbose install     'bespoke-progress',
+7 verbose install     'bespoke-scale',
+7 verbose install     'bespoke-theme-cube',
+7 verbose install     'bespoke-touch',
+7 verbose install     'debowerify',
+7 verbose install     'gh-pages',
+7 verbose install     'gulp',
+7 verbose install     'gulp-autoprefixer',
+7 verbose install     'gulp-browserify',
+7 verbose install     'gulp-connect',
+7 verbose install     'gulp-csso',
+7 verbose install     'gulp-jade',
+7 verbose install     'gulp-plumber',
+7 verbose install     'gulp-rename',
+7 verbose install     'gulp-rimraf',
+7 verbose install     'gulp-stylus',
+7 verbose install     'gulp-uglify',
+7 verbose install     'gulp-util',
+7 verbose install     'insert-css',
+7 verbose install     'opn',
+7 verbose install     'through' ] ]
+8 verbose install where, peers [ '/Users/peter/Documents/Talks/tme/smartwatches', [] ]
+9 verbose installManyTop reading for lifecycle /Users/peter/Documents/Talks/tme/smartwatches/package.json
+10 info preinstall presentation-smartwatches@0.0.0
+11 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke/package.json
+12 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-backdrop/package.json
+13 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-bullets/package.json
+14 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-hash/package.json
+15 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-keys/package.json
+16 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-progress/package.json
+17 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-scale/package.json
+18 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-theme-cube/package.json
+19 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-theme-pebra/package.json
+20 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-touch/package.json
+21 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/debowerify/package.json
+22 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gh-pages/package.json
+23 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp/package.json
+24 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-autoprefixer/package.json
+25 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-browserify/package.json
+26 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-connect/package.json
+27 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-csso/package.json
+28 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-jade/package.json
+29 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-plumber/package.json
+30 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-rename/package.json
+31 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-rimraf/package.json
+32 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-stylus/package.json
+33 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-uglify/package.json
+34 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-util/package.json
+35 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/insert-css/package.json
+36 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/npm/package.json
+37 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/opn/package.json
+38 verbose installManyTop reading scoped package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/through/package.json
+39 verbose readDependencies loading dependencies from /Users/peter/Documents/Talks/tme/smartwatches/package.json
+40 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke/package.json
+41 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-backdrop/package.json
+42 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-bullets/package.json
+43 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-hash/package.json
+44 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-keys/package.json
+45 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-progress/package.json
+46 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-scale/package.json
+47 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-theme-cube/package.json
+48 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-theme-pebra/package.json
+49 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/bespoke-touch/package.json
+50 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/debowerify/package.json
+51 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gh-pages/package.json
+52 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp/package.json
+53 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-autoprefixer/package.json
+54 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-browserify/package.json
+55 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-connect/package.json
+56 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-csso/package.json
+57 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-jade/package.json
+58 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-plumber/package.json
+59 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-rename/package.json
+60 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-rimraf/package.json
+61 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-stylus/package.json
+62 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-uglify/package.json
+63 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/gulp-util/package.json
+64 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/insert-css/package.json
+65 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/npm/package.json
+66 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/opn/package.json
+67 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/through/package.json
+68 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/.bin/gulp/package.json
+69 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/.bin/npm/package.json
+70 verbose targetResolver reading package data from /Users/peter/Documents/Talks/tme/smartwatches/node_modules/.bin/opn/package.json
+71 verbose already installed skipping gulp@^3.8.1 /Users/peter/Documents/Talks/tme/smartwatches
+72 verbose already installed skipping gulp-autoprefixer@0.0.7 /Users/peter/Documents/Talks/tme/smartwatches
+73 verbose already installed skipping gulp-browserify@^0.5.0 /Users/peter/Documents/Talks/tme/smartwatches
+74 verbose already installed skipping gulp-connect@^2.0.5 /Users/peter/Documents/Talks/tme/smartwatches
+75 verbose already installed skipping gulp-csso@^0.2.9 /Users/peter/Documents/Talks/tme/smartwatches
+76 verbose already installed skipping gulp-jade@^0.6.0 /Users/peter/Documents/Talks/tme/smartwatches
+77 verbose already installed skipping gulp-plumber@^0.6.3 /Users/peter/Documents/Talks/tme/smartwatches
+78 verbose already installed skipping gulp-rename@^1.2.0 /Users/peter/Documents/Talks/tme/smartwatches
+79 verbose already installed skipping gulp-rimraf@^0.1.0 /Users/peter/Documents/Talks/tme/smartwatches
+80 verbose already installed skipping gulp-stylus@^1.0.2 /Users/peter/Documents/Talks/tme/smartwatches
+81 verbose already installed skipping gulp-uglify@^0.3.1 /Users/peter/Documents/Talks/tme/smartwatches
+82 verbose already installed skipping gulp-util@^2.2.17 /Users/peter/Documents/Talks/tme/smartwatches
+83 verbose already installed skipping insert-css@^0.2.0 /Users/peter/Documents/Talks/tme/smartwatches
+84 verbose already installed skipping opn@^0.1.2 /Users/peter/Documents/Talks/tme/smartwatches
+85 verbose already installed skipping through@^2.3.4 /Users/peter/Documents/Talks/tme/smartwatches
+86 silly cache add args [ '/Users/peter/Documents/Talks/elixir/bespoke-theme-pebra@1.0.0',
+86 silly cache add   null ]
+87 verbose cache add spec /Users/peter/Documents/Talks/elixir/bespoke-theme-pebra@1.0.0
+88 verbose already installed skipping bespoke@^1.0.0 /Users/peter/Documents/Talks/tme/smartwatches
+89 verbose already installed skipping bespoke-backdrop@^1.0.0 /Users/peter/Documents/Talks/tme/smartwatches
+90 verbose already installed skipping bespoke-bullets@^1.0.0 /Users/peter/Documents/Talks/tme/smartwatches
+91 verbose already installed skipping bespoke-hash@^1.0.0 /Users/peter/Documents/Talks/tme/smartwatches
+92 silly cache add parsed spec { raw: '/Users/peter/Documents/Talks/elixir/bespoke-theme-pebra@1.0.0',
+92 silly cache add   scope: null,
+92 silly cache add   name: null,
+92 silly cache add   rawSpec: '/Users/peter/Documents/Talks/elixir/bespoke-theme-pebra@1.0.0',
+92 silly cache add   spec: '/Users/peter/Documents/Talks/elixir/bespoke-theme-pebra@1.0.0',
+92 silly cache add   type: 'local' }
+93 verbose already installed skipping bespoke-keys@^1.0.0 /Users/peter/Documents/Talks/tme/smartwatches
+94 verbose already installed skipping bespoke-progress@^1.0.0 /Users/peter/Documents/Talks/tme/smartwatches
+95 error addLocal Could not install /Users/peter/Documents/Talks/elixir/bespoke-theme-pebra@1.0.0
+96 verbose already installed skipping bespoke-scale@^1.0.0 /Users/peter/Documents/Talks/tme/smartwatches
+97 verbose already installed skipping bespoke-theme-cube@^2.0.0 /Users/peter/Documents/Talks/tme/smartwatches
+98 verbose already installed skipping bespoke-touch@^1.0.0 /Users/peter/Documents/Talks/tme/smartwatches
+99 verbose already installed skipping debowerify@^0.7.1 /Users/peter/Documents/Talks/tme/smartwatches
+100 verbose already installed skipping gh-pages@^0.2.0 /Users/peter/Documents/Talks/tme/smartwatches
+101 verbose stack Error: ENOENT, open '/Users/peter/Documents/Talks/elixir/bespoke-theme-pebra@1.0.0'
+101 verbose stack     at Error (native)
+102 verbose cwd /Users/peter/Documents/Talks/tme/smartwatches
+103 error Darwin 14.3.0
+104 error argv "node" "/usr/local/bin/npm" "install"
+105 error node v0.12.2
+106 error npm  v2.9.0
+107 error path /Users/peter/Documents/Talks/elixir/bespoke-theme-pebra@1.0.0
+108 error code ENOENT
+109 error errno -2
+110 error enoent ENOENT, open '/Users/peter/Documents/Talks/elixir/bespoke-theme-pebra@1.0.0'
+110 error enoent This is most likely not a problem with npm itself
+110 error enoent and is related to npm not being able to find a file.
+111 verbose exit [ -2, true ]
