@@ -7,7 +7,7 @@
   - 2009 Samsung S9110 Watch Phone
   - 2010 Sony Ericsson LiveView - erstmal Daten mit Android Geräten getauscht
   - 2012 Pebble
-  - 2013 Samsung Galaxy Gear - TizenOS!!
+  - 2013 Samsung Galaxy Gear - TizenOS
   - 2014 Android Wear(Motorola Moto 360)
   - 2015 Apple Watch
 
@@ -35,6 +35,22 @@
     + Wireless Charging Chip
     + Retina AMOLED Screen > 250ppi
     + Pulsmesser
+
+  + Galaxy Gear S
+    h2 Innenleben - 1
+    ul
+      li Snapdragon 400 SoC
+      li CPU 1GHz DualCore Krait 200
+      li 521MB RAM
+      li 4GB Flash
+
+  section
+    h2 Innenleben - 2
+    ul
+      li 360x480 Curved Super AMOLED (~300ppi)
+      li Accelerometer, Gyroskop
+      li Compass, Barometer
+      li Pulsmesser, Umgebungslichtsensor, UV-Sensor
 
   2.3 Pebble
     + ARM Cortex-M3, up to 80 MHz with 512 KB (Pebble Orig/Steel)
